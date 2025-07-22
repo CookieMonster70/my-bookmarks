@@ -13,5 +13,7 @@
 - [Open Web UI AI](https://github.com/open-webui/open-webui)
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books/tree/main)
 - [Daily Dev](https://app.daily.dev/)
+- [Sysinternals](https://learn.microsoft.com/de-ch/sysinternals/downloads/?redirectedfrom=MSDN)
+- [Tutorials and more](https://github.com/antonputra/tutorials)
 
 
